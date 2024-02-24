@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import HumanTimeToRuTimeCalculator from "./Components/HumanTimeToRuTimeCalculator";
 import FoxDisplayCard from "./Components/FoxDisplayCard";
+import React from "react";
 
 function App() {
   const [ruYears, setRuYears] = useState(0);

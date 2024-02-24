@@ -1,5 +1,6 @@
 import { FunctionComponent, useCallback, useEffect, useState } from "react";
 import { humanYearsPerDayThatRuExperiences } from "../utils/constants";
+import React from "react";
 
 interface Props {
   ruYears: number;

@@ -1,4 +1,5 @@
 // Interesting, need to import like this
+import React from "react";
 import heart from "../assets/heart.png";
 import negative from "../assets/negative.png";
 import neutral from "../assets/neutral.png";
